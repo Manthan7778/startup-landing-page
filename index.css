@@ -1,0 +1,65 @@
+html,body{
+     font-family: 'Montserrat', sans-serif;
+     font-size: 16px;
+     height: 100vh;
+     font-weight: 400;
+     padding: 0;
+     margin: 0;
+     background-color: black;
+}
+
+h1,h2,p{
+    padding: 0;
+    margin: 0;
+}
+
+.head{
+    align-items: centers;
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+    background-color:#FCAF02;
+    padding: 24px 58px 24px 58px;
+}
+
+.head .logo{
+    text-transform: none;
+    font-size: 32px;
+    font-weight: 700;
+    color: black;
+}
+  
+.head .link{
+    text-transform: none;
+    margin-right: 50px;
+    font-size: 28px;
+    font-weight: 400;
+    color: black;
+}
+
+.head .link-group{
+    display: flex;
+    align-items: center;
+
+}
+
+.section .hero-content .title{
+    font-size: 64px;
+    font-weight: 700;
+    color:white;
+}
+
+.section .hero-content .content{
+    font-size: 28px;
+    font-weight: 400;
+    color: white;
+}
+
+.section .hero-content .btn{
+    font-size: 32px;
+    font-weight: 400;
+    color: black;
+}
+
+
+
